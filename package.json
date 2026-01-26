@@ -1,0 +1,16 @@
+{
+  "name": "ayu-high-contrast-themes",
+  "displayName": "Ayu High Contrast Themes",
+  "version": "0.0.1",
+  "publisher": "afsc19",
+  "engines": { "vscode": "^1.80.0" },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ayu Dark Bordered High Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ayu-dark-bordered-high-contrast.color-theme.json"
+      }
+    ]
+  }
+}
