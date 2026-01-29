@@ -3,6 +3,7 @@
   "displayName": "Ayu High Contrast Themes",
   "version": "0.0.1",
   "publisher": "afsc19",
+  "repository": "https://github.com/afsc19/ayu-high-contrast-themes",
   "engines": { "vscode": "^1.80.0" },
   "contributes": {
     "themes": [
